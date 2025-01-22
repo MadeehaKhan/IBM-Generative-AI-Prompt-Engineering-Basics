@@ -7,6 +7,9 @@
 <br />
 [Course 4 - Python for Data Science, AI & Development](https://github.com/MadeehaKhan/IBM-Python-for-DataScience-AI-Dev)
 <br />
+[Course 5 - Developing AI Applications with Python and Flask](https://github.com/MadeehaKhan/IBM-Developing-AI-Applications-with-Python-Flask)
+
+<br />
 <br />
 
 [Course 8 - Machine Learning with Python](https://github.com/MadeehaKhan/IBM-Machine-Learning-with-Python)
